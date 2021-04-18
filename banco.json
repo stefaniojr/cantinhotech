@@ -1,0 +1,256 @@
+{
+  "ofertas": [
+    {
+      "id": 1,
+      "categoria": "smartphones",
+      "titulo": "iPhone 7 128gb Preto Matte",
+      "descricao_oferta": "O queridinho da Apple!",
+      "valor": 1499.9,
+      "destaque": true,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/1/img1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoria": "smartphones",
+      "titulo": "iPhone 8 64gb Preto",
+      "descricao_oferta": "Alto poder de processamento e câmera incrível!",
+      "valor": 1799.9,
+      "destaque": true,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/2/img1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoria": "smartphones",
+      "titulo": "iPhone 7 32gb Jetblack",
+      "descricao_oferta": "Design premium com um preço que cabe no seu bolso!",
+      "valor": 1199.9,
+      "destaque": false,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/3/img1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "categoria": "acessorios",
+      "titulo": "AirPods com estojo de recarga",
+      "descricao_oferta": "Comodidade e qualidade de som Apple.",
+      "valor": 899.9,
+      "destaque": true,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/4/img1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "categoria": "acessorios",
+      "titulo": "Cabo de transferência Lightning",
+      "descricao_oferta": "Originais Apple (MFi).",
+      "valor": 89.99,
+      "destaque": false,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/5/img1.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "categoria": "acessorios",
+      "titulo": "Earpods",
+      "descricao_oferta": "Clássicos fones de ouvido com a qualidade Apple.",
+      "valor": 99.9,
+      "destaque": false,
+      "imagens": [
+        {
+          "url": "/assets/ofertas/6/img1.jpg"
+        }
+      ]
+    }
+  ],
+  "info": [
+    {
+      "id": 1,
+      "descricao": "O iPhone 7 tem câmera de 12 MP com vídeo 4K e estabilização óptica de imagem. Ele vem com tela Retina HD de 4,7 polegadas e Touch ID. Além do poderoso chip A10 Fusion e bateria de longa duração. Tudo em um design resistente à água e poeira."
+    },
+    {
+      "id": 2,
+      "descricao": "Esta nova geração do iPhone está ainda mais avançada, por fora um design mais aprimorado, totalmente em vidro, e por dentro o iOS 11, um sistema operacional extremamente inteligente, projetado para que o usuário tenha o máximo de aproveitamento em cada recurso, tornando o aparelho numa ferramenta mais poderosa e versátil. Sua nova tela Retina HD de 4,7 polegadas agora conta com tecnologia como True Tone, ampla tonalidade de cores e 3D Touch. A diferença você logo percebe em imagens que se aproximam da realidade, com tonalidade de cores definidas, cores vivas e alto contraste. A câmera do iPhone 8 apple está melhor também, com sensor de 12 MP maior e mais rápido, uma lente grande-angular com abertura ƒ/1.8, e um avançado sistema de estabilização óptica, para fotos e vídeos. Com o iphone 8 você aproveita de novas experiências. No campo da realidade aumentada por exemplo, você transforma o mundo à sua volta em uma brincadeira ao inserir monstros virtuais em seu ambiente real. Mas não é só isso, a realidade aumentada nos projeta em um novo jeito de usar a tecnologia, e nos lança em uma verdadeira transformação no modo como trabalhamos, aprendemos, jogamos e se conectamos com quase tudo ao nosso redor."
+    },
+    {
+      "id": 3,
+      "descricao": "Agora na cor JetBlack, com tela LCD Retina HD de 4,7 polegadas. Resistência à água e poeira (um metro por até 30 minutos, IP67). Câmera grande-angular de 12 MP com HDR automático e vídeo 4K até 30 qps. Câmera FaceTime HD de 7 MP com gravação de vídeo de 1080p. Touch ID para autenticação segura e Apple Pay. Chip A10 Fusion. iOS 13 com Modo Escuro, novas ferramentas para edição de fotos e vídeos, e novos recursos de privacidade."
+    },
+    {
+      "id": 4,
+      "descricao": "Descubra os fones de ouvido Apple. Os AirPods são fáceis de usar e têm áudio para o dia todo. E os AirPods Pro vêm com Cancelamento Ativo de Ruído."
+    },
+    {
+      "id": 5,
+      "descricao": "Cabo de Lightning para USB (1m)."
+    },
+    {
+      "id": 6,
+      "descricao": "Fone de Ouvido Apple EarPods, Entrada P2, Branco."
+    }
+  ],
+  "especs": [
+    {
+      "id": 1,
+      "descricao": "Tela LCD Retina HD de 4,7 polegadas. Resistência à água e poeira (um metro por até 30 minutos, IP67). Câmera grande-angular de 12 MP com HDR automático e vídeo 4K até 30 qps. Câmera FaceTime HD de 7 MP com gravação de vídeo de 1080p. Touch ID para autenticação segura e Apple Pay. Chip A10 Fusion. iOS 13 com Modo Escuro, novas ferramentas para edição de fotos e vídeos, e novos recursos de privacidade."
+
+    },
+    {
+      "id": 2,
+      "descricao": "iPhone 8 Apple com iOS 11, Câmera de 12 MP, Resistente à Água, Wi-Fi, 4G LTE e NFC, 64GB, Cinza-Espacial, Tela HD de 4,7"
+    },
+    {
+      "id": 3,
+      "descricao": "Apple iPhone 7 Tela LCD Retina HD 4,7” iOS 13 32 GB"
+    },
+    {
+      "id": 4,
+      "descricao": "Bluetooth. Sem fio. Peso. AirPods (cada um): 4g (0,14 onça). Estojo de recarga: 38g (1,34 onça)"
+    },
+    {
+      "id": 5,
+      "descricao": "Use este cabo USB 2.0 para conectar seu iPhone, iPad ou iPod com conector Lightning à porta USB do seu computador. Com ele você sincroniza o dispositivo e carrega a bateria. Ou conecte o cabo a um carregador Apple USB para plugar na tomada."
+    },
+    {
+      "id": 6,
+      "descricao": "Desenvolvido pela Apple. Tons graves mais profundos. Maior proteção contra suor e água. Controle a reprodução de músicas e vídeos. Atenda e encerre ligações. Conector 3,5 mm (P2)."
+    }
+  ],
+  "pedidos": [
+    {
+      "endereco": "Rua J",
+      "numero": "111",
+      "complemento": "",
+      "formaPagamento": "mercadopago",
+      "id": 1
+    },
+    {
+      "endereco": "Rua Celi Alves da Silva",
+      "numero": "111",
+      "complemento": "3º andar",
+      "formaPagamento": "picpay",
+      "id": 2
+    },
+    {
+      "endereco": "aaa",
+      "numero": "aaa",
+      "complemento": "a",
+      "formaPagamento": "picpay",
+      "id": 3
+    },
+    {
+      "endereco": "Rua J",
+      "numero": "111",
+      "complemento": "",
+      "formaPagamento": "mercadopago",
+      "id": 4
+    },
+    {
+      "endereco": "aaaa",
+      "numero": "aaaa",
+      "complemento": "aaaaa",
+      "formaPagamento": "debito",
+      "id": 5
+    },
+    {
+      "endereco": "aaa",
+      "numero": "aaa",
+      "complemento": "aaa",
+      "formaPagamento": "dinheiro",
+      "id": 6
+    },
+    {
+      "endereco": "Rua J",
+      "numero": "111",
+      "complemento": "3º andar",
+      "formaPagamento": "dinheiro",
+      "itens": [
+        {
+          "id": 2,
+          "img": {
+            "url": "/assets/ofertas/2/img1.jpg"
+          },
+          "titulo": "iPhone 8 64gb Preto",
+          "descricao_oferta": "Alto poder de processamento e câmera incrível!",
+          "valor": 1799.9,
+          "quantidade": 1
+        },
+        {
+          "id": 4,
+          "img": {
+            "url": "/assets/ofertas/4/img1.jpg"
+          },
+          "titulo": "AirPods com estojo de recarga",
+          "descricao_oferta": "Comodidade e qualidade de som Apple.",
+          "valor": 899.9,
+          "quantidade": 1
+        }
+      ],
+      "id": 7
+    },
+    {
+      "endereco": "aaaaaa",
+      "numero": "aaa",
+      "complemento": "aaa",
+      "formaPagamento": "mercadopago",
+      "itens": [
+        {
+          "id": 2,
+          "img": {
+            "url": "/assets/ofertas/2/img1.jpg"
+          },
+          "titulo": "iPhone 8 64gb Preto",
+          "descricao_oferta": "Alto poder de processamento e câmera incrível!",
+          "valor": 1799.9,
+          "quantidade": 1
+        }
+      ],
+      "id": 8
+    },
+    {
+      "endereco": "aaa",
+      "numero": "a",
+      "complemento": null,
+      "formaPagamento": "mercadopago",
+      "itens": [
+        {
+          "id": 1,
+          "img": {
+            "url": "/assets/ofertas/1/img1.jpg"
+          },
+          "titulo": "iPhone 7 128gb Preto Matte",
+          "descricao_oferta": "O queridinho da Apple!",
+          "valor": 1499.9,
+          "quantidade": 1
+        },
+        {
+          "id": 2,
+          "img": {
+            "url": "/assets/ofertas/2/img1.jpg"
+          },
+          "titulo": "iPhone 8 64gb Preto",
+          "descricao_oferta": "Alto poder de processamento e câmera incrível!",
+          "valor": 1799.9,
+          "quantidade": 1
+        }
+      ],
+      "id": 9
+    }
+  ]
+}
